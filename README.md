@@ -4,3 +4,16 @@ I am currently working on furthering my understanding of HTML and CSS and learni
 I'm a content creator, resident high fantasy/magepunk geek and MMO enjoyer.
 <br>
 # My Skills
+- Proficiency in Logic Pro X, Pro Tools and Adobe Audition
+- Skilled in playing Guitar, Bass and Drums
+- Basic video editing skills (Adobe Premier & Sony Vegas)
+- Beginner Python coding
+- Computer & tech literate
+- Detail oriented work ethic
+<br>
+# What's My Focus?
+By weekday I am a trainee joiner, working with raw materials and creating bespoke, intricate and beautiful structures and fireplace beams. 
+At night (and the weekends) I am a streamer on twitch, gamer and musician. 
+My main focus during the freetime I do have is spent learning to code in Python and learning about the games industry in the hopes I'll be working within it someday soon.
+<br>
+# Any Questions? 
