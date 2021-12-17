@@ -6,7 +6,7 @@ I'm a content creator, resident high fantasy/magepunk geek and MMO enjoyer.
 ## My Skills
 - Proficiency in Logic Pro X, Pro Tools and Adobe Audition
 - Skilled in playing Guitar, Bass and Drums
-- Basic video editing skills (Adobe Premier & Sony Vegas)
+- Basic video editing (Adobe Premier & Sony Vegas)
 - Beginner Python coding
 - Computer & tech literate
 - Detail oriented work ethic <br>
